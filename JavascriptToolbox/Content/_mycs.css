@@ -1,0 +1,38 @@
+﻿body {
+    background-image: url("http://4.bp.blogspot.com/-ZOcg3vKmr2k/UFJSd0CQSPI/AAAAAAAAB5E/NKwfdarZdzo/s2560/Dragon-magma.png");
+}
+.stylecolumn {
+    width: 325px;
+    padding: 20px;
+    border: 10px solid #808080;
+    margin: 30px;
+}
+.modal {
+    background-image: url("http://www.sexyli.com/wp-content/uploads/2013/07/animated-best-background-pictures-best-wallpaper-app-for-your-android-device.jpg") ;
+}
+.modal-header {
+    background-color:#0094ff;
+    
+}
+.modal-footer {
+    background-color:#0094ff;
+   
+    
+       
+}
+.modal-body {
+    background-color:#ffffff;
+    
+}
+<style>
+.clickMe {
+    -moz-appearance: button;
+    -ms-appearance: button;
+    -o-appearance: button;
+    -webkit-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: #f00;
+    padding: 0.4em 0.6em;
+}​
+
